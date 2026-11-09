@@ -7,7 +7,7 @@
 - Email: anhxuannguyen001@gmail.com
 - Lớp: K5-L2A
 - Link repo bài làm: https://github.com/Xanh21807/K5-L2A-DAY02-NguyenXuanAnh-2A202603101-ObjectDetection
-- Link Colab đã chạy: [Link Google Colab của bạn sau khi chạy]
+- Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
 
@@ -60,10 +60,10 @@
 
 | Chỉ số trên 10 ảnh eval | Giá trị |
 |---|---:|
-| Precision | *(Điền từ model_eval_metrics.json)* |
-| Recall | *(Điền từ model_eval_metrics.json)* |
-| mAP50 | *(Điền từ model_eval_metrics.json)* |
-| mAP50–95 | *(Điền từ model_eval_metrics.json)* |
+| Precision | |
+| Recall | |
+| mAP50 | |
+| mAP50–95 | |
 
 - **Liên kết hình ảnh kết quả:**
   - 10 ảnh eval kèm bounding box dự đoán: [`assets/eval_predictions/visuals/`](assets/eval_predictions/visuals/)
@@ -114,3 +114,4 @@
 - Công cụ AI đã dùng: Antigravity Assistant (hỗ trợ phân tích mã nguồn, tính toán sai lệch thống kê giữa tập nhãn và gold set, tự động hóa script rà soát lỗi).
 - Phần học viên tự kiểm tra: Kiểm tra trực quan các ảnh train, rà soát lại các box trên công cụ gán nhãn, đối chiếu quyết định gán nhãn theo đúng schema quy định của bài học.
 - Tài liệu tham khảo: Tài liệu hướng dẫn khóa học ADAS Object Detection, tài liệu Ultralytics YOLO26.
+
