@@ -12,6 +12,7 @@ outputs/
 *.zip
 # Không commit checkpoint .pt, kể cả khi nằm trong report/individual/assets.
 *.pt
+*.cache
 __pycache__/
 
 # macOS

@@ -60,10 +60,10 @@
 
 | Chỉ số trên 10 ảnh eval | Giá trị |
 |---|---:|
-| Precision | |
-| Recall | |
-| mAP50 | |
-| mAP50–95 | |
+| Precision | 0.5682 |
+| Recall | 0.2069 |
+| mAP50 | 0.2761 |
+| mAP50–95 | 0.1661 |
 
 - **Liên kết hình ảnh kết quả:**
   - 10 ảnh eval kèm bounding box dự đoán: [`assets/eval_predictions/visuals/`](assets/eval_predictions/visuals/)
