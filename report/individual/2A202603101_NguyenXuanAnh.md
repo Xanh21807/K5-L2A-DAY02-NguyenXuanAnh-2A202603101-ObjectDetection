@@ -7,7 +7,7 @@
 - Email: anhxuannguyen001@gmail.com
 - Lớp: K5-L2A
 - Link repo bài làm: https://github.com/Xanh21807/K5-L2A-DAY02-NguyenXuanAnh-2A202603101-ObjectDetection
-- Link Colab đã chạy:
+- Link Colab đã chạy:https://colab.research.google.com/drive/1aD5Jx__-RYVAVJCzy9D7WheoGGu2TGWn
 
 ## 2. Schema và mini guideline
 
